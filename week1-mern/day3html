@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>profile</title>
+<link rel="stylesheet" href="carer.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box"></div>
+        <img src="c:\Users\Student\Pictures\WhatsApp Image 2023-10-06 at 11.10.38 AM.jpeg" width= "150px" height="100px"/>
+        <ul>
+            <h1> intro</h1>
+        </ul>
+        <ul>
+            
+
+
+            <li> i am tabish tabish hyder and i am 20 year old and 
+                To enhance my knowledge & capabilities by working in a dynamic
+organization that prides it in giving substantial responsibilities to new talent
+            </li>
+        </ul>
+        
+        <button> over view</button>   
+        <button> deep</button>
+
+
+
+    </div>
+    
+    
+</body>
+</html>
